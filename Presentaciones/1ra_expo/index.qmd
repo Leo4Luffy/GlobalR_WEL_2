@@ -1,0 +1,17 @@
+---
+title: "Fenómica: la frontera actual en la cría de animales"
+Host: "Australasian Applied Statistics Conference 2022"
+abstract: |
+ Prueba.  
+#output-file: index.html
+author:
+  - name: Leo
+    #url: https://emitanaka.org
+    #affiliation: Monash University
+    #affiliation_url: https://numbat.space/
+date: 15-12-2022
+image: Vaquita_2.jpg
+#url: https://emitanaka.org/slides/AASC2022
+categories: [Genómica, Métodos multivariados]
+lang: es
+---

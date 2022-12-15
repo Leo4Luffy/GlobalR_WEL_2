@@ -1,0 +1,18 @@
+---
+title: " "
+lang: es
+---
+
+## ¡Bienvenido!
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: '54%'
+#| fig-align: 'center'
+
+library(knitr)
+include_graphics('img/Vaquita_2.jpg')
+```
+
+### Sobre este sitio web
