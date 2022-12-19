@@ -11,7 +11,9 @@ author:
     #affiliation_url: https://numbat.space/
 date: 15-12-2022
 image: Vaquita_2.jpg
-#url: https://emitanaka.org/slides/AASC2022
+url: https://dquarto.netlify.app
 categories: [Genómica, Métodos multivariados]
 lang: es
 ---
+
+<iframe src="`r rmarkdown::metadata$url`" width="100%" height="450px"></iframe>
