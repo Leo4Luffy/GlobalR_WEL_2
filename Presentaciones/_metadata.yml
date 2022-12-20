@@ -12,3 +12,6 @@ format:
     css: styles.css
 execute:
   echo: false
+
+# Default fields for citation
+citation: true
