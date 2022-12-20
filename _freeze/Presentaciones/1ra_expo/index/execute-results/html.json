@@ -1,5 +1,5 @@
 {
-  "hash": "f5152300ad616ba0aa83efe3283c1d26",
+  "hash": "45d1b3b21db9e2df00581a6607789aad",
   "result": {
     "markdown": "---\ntitle: \"Fenómica: la frontera actual en la cría de animales\"\nabstract: |\n Prueba.  \n#output-file: index.html\nauthor:\n  - name: Leo\n    url: https://dquarto.netlify.app\n    affiliation: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA-CSIC)\n    affiliation_url: https://www.inia.es/Pages/Home.aspx\ndate: \"2022-12-20\"\nimage: Vaquita_2.jpg\nurl: https://dquarto.netlify.app\ncategories: [Genómica, Métodos multivariados]\nlang: es\n---\n\n\n[Aquí](https://dquarto.netlify.app) podrás acceder a la presentación.\n\n<iframe src=\"https://dquarto.netlify.app\" width=\"100%\" height=\"450px\"></iframe>\n",
     "supporting": [],

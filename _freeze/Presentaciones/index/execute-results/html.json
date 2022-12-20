@@ -1,0 +1,14 @@
+{
+  "hash": "d9c56926b95caa85a5a304d2ab75876e",
+  "result": {
+    "markdown": "---\ntitle: \" \"\ndate: \"2022-12-20\"\nlisting:\n  contents: .\n  sort: \"date desc\"\n  type: default\n  categories: true\n  sort-ui: false\n  filter-ui: false\n  #fields: [image, date, title, Host, categories]\npage-layout: full\ntitle-block-banner: true\nlang: es\n---\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
