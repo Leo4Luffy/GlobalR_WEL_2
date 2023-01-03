@@ -5,12 +5,12 @@ abstract: |
 #output-file: index.html
 author:
   - name: Leo
-    url: https://dquarto.netlify.app
+    url: https://leo4luffy.github.io
     affiliation: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA-CSIC)
     affiliation_url: https://www.inia.es/Pages/Home.aspx
 date: "`r as.Date(Sys.time())`"
 image: Vaquita_2.jpg
-url: https://dquarto.netlify.app
+url: https://diapo-feno.netlify.app
 categories: [Genómica, Métodos multivariados]
 lang: es
 ---
