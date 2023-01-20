@@ -25,13 +25,13 @@
     "href": "Presentaciones/index.html",
     "title": "GlobalR_WEL",
     "section": "",
-    "text": "Fenómica: la frontera actual en la cría de animales\n\n\n\n\n\n\n\nGenómica\n\n\nMétodos multivariados\n\n\n\n\nPrueba.\n\n\n\n\n\n\nInvalid Date\n\n\nLeo\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Fenómica: la frontera actual en la cría de animales\n\n\n\n\n\n\n\nGenómica\n\n\nMétodos multivariados\n\n\n\n\nPrueba.\n\n\n\n\n\n\nInvalid Date\n\n\nLeo, María, Clara\n\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "Presentaciones/1ra_expo/index.html",
     "href": "Presentaciones/1ra_expo/index.html",
     "title": "Fenómica: la frontera actual en la cría de animales",
     "section": "",
-    "text": "Aquí podrás acceder a la presentación.\n\n\n\n\n\nCómo citarBibTeX@online{leo,\n  author = {Leo},\n  title = {Fenómica: la frontera actual en la cría de animales},\n  date = {},\n  langid = {es},\n  abstract = {Prueba.}\n}\nPor favor, cita este trabajo como:\nLeo. n.d. “Fenómica: la frontera actual en la cría de\nanimales.”"
+    "text": "Aquí podrás acceder a la presentación.\n\n\n\n\n\nCómo citarBibTeX@online{leo,\n  author = {Leo and María and Clara},\n  title = {Fenómica: la frontera actual en la cría de animales},\n  date = {},\n  langid = {es},\n  abstract = {Prueba.}\n}\nPor favor, cita este trabajo como:\nLeo, María, and Clara. n.d. “Fenómica: la frontera actual en la\ncría de animales.”"
   }
 ]

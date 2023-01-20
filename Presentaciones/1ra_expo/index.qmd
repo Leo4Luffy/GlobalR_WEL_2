@@ -5,7 +5,18 @@ abstract: |
 #output-file: index.html
 author:
   - name: Leo
+    orcid: 0000-0002-6973-2088
     url: https://leo4luffy.github.io
+    affiliation: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA-CSIC)
+    #affiliation_url: leo4luffy.github.io
+  - name: María
+    orcid: 0000-0002-3087-9170
+    #url: https://leo4luffy.github.io
+    affiliation: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA-CSIC)
+    affiliation_url: https://www.inia.es/Pages/Home.aspx
+  - name: Clara
+    #orcid: 0000-0002-3087-9170
+    #url: https://leo4luffy.github.io
     affiliation: Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA-CSIC)
     affiliation_url: https://www.inia.es/Pages/Home.aspx
 date: "`r as.Date(Sys.time())`"
